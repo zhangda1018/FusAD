@@ -127,11 +127,12 @@ numpy>=1.21.0              # Numerical computing
 If you use FusAD in your research, please cite:
 
 ```bibtex
-@article{fusad2025,
+@article{zhang2025fusad,
   title={FusAD: Time-Frequency Fusion with Adaptive Denoising for General Time Series Analysis},
   author={Da Zhang, Bingyu Li, Zhiyuan Zhao, Feiping Nie, Junyu Gao, and Xuelong Li},
-  journal={XXX},
-  year={2025}
+  booktitle={2026 IEEE 42nd International Conference on Data Engineering (ICDE)},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
