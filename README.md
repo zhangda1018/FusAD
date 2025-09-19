@@ -115,11 +115,11 @@ pytorch-lightning>=1.8.0
 torchmetrics>=0.10.0
 
 # Additional utilities
-timm>=0.6.0                # Transformer utilities
-einops>=0.6.0              # Tensor operations
-scikit-learn>=1.1.0        # Evaluation metrics
-pandas>=1.4.0              # Data processing
-numpy>=1.21.0              # Numerical computing
+timm>=0.6.0                
+einops>=0.6.0             
+scikit-learn>=1.1.0        
+pandas>=1.4.0              
+numpy>=1.21.0            
 ```
 
 ## 📄 Citation
