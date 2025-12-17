@@ -1,0 +1,4 @@
+model_id_Handwriting_emb_dim_64_depth_3_masking_ratio_0.35_dropout_rate_0.15_22_59_15  
+FusAD_processed_l_3  
+acc:{'test': 0.5842167139053345, 'val': 0.6333333253860474}, mf1:{'test': 0.45549315214157104, 'val': 0.5073391795158386}, precision:{'test': 0.46208134293556213, 'val': 0.5047953128814697}, recall:{'test': 0.49162909388542175, 'val': 0.5675439238548279}
+
